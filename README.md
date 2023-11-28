@@ -14,7 +14,10 @@ This repository contains a range of materials developed to present the study's f
 ## Related Links
 
 Research Paper - [Paper Link](https://arxiv.org/pdf/2307.11760.pdf)
-Medium Article  -
-Google Slides -
-Youtube Video Explanation -
+
+Medium Article  - [Medium Article Link](https://medium.com/@utkarshsatishkumar.shah/embracing-emotion-the-untapped-potential-of-affective-cues-in-language-ai-ea012d4c78c7)
+
+Google Slides - [Slides Link](https://docs.google.com/presentation/d/162_TEPplufJtudylYUMXGs0qcFotHAChEpQDZ7OuXdc/edit?usp=sharing)
+
+Youtube Video Explanation - [Video Explanation Link]()
 
