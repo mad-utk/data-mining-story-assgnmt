@@ -19,5 +19,5 @@ Medium Article  - [Medium Article Link](https://medium.com/@utkarshsatishkumar.s
 
 SlideShare Slide Deck - [Slide Deck](https://www.slideshare.net/utkarshsatishkumarsh/shortstorypptpdf)
 
-Youtube Video Explanation - [Video Explanation Link]()
+Youtube Video Explanation - [Video Explanation Link](https://drive.google.com/file/d/1IMbhb8mhR4jPLftbIZUzYMywHRDiJoEF/view?usp=sharing)
 
